@@ -1,0 +1,13 @@
+
+
+.header{
+    background-image:url(./images/bg-hero-desktop.svg);
+    height:100vh;
+    margin-top: none;
+}
+
+.footer{
+
+background-color: rgba(0, 0, 0, 0.621);
+}
+
